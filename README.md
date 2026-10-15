@@ -1,7 +1,11 @@
 # AquaLoop AI 💧
 ### Every Drop Has Another Purpose.
 
-🌐 **Live Website:** https://janasruthimylsamy.github.io/aqualoop/
+## 🔗 Project Links
+- 🌐 **Live Website:** https://janasruthimylsamy.github.io/aqualoop/
+- 🎥 **Project Demo Video:** [Watch AquaLoop AI Demo](https://drive.google.com/file/d/1rCyPD2i2pp3NibLPyXJpzWPfUa-tvHyi/view?usp=drive_link)
+
+
 
 ## About the Project
 AquaLoop AI is a water-reuse initiative that explores how water discharged from air conditioners (ACs), RO purifiers, and washing machines can be assessed for suitable non-drinking uses instead of being wasted.
